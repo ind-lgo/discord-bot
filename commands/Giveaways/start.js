@@ -136,7 +136,7 @@ module.exports = {
                     giveawayEnded: (config["Giveaway_Options"].showMention ? `@everyone\n\n` : "") + ":tada: **GIVEAWAY ENDED** :tada:",
                     timeRemaining: "Time remaining: **{duration}**!",
                     inviteToParticipate: "React with 🎉 to participate!",
-                    winMessage: "Congratulations, {winners}! You won the **{prize}**!",
+                    winMessage: "Congratulations, {winners}! You  have won the **{prize}**!",
                     embedFooter: "Giveaways",
                     noWinner: "Not enough entrants to determine a winner!",
                     hostedBy: "Hosted by: {user}",
